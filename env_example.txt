@@ -1,0 +1,13 @@
+# Get this from @BotFather on Telegram
+BOT_TOKEN=123456789:AAHxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+# Your own Telegram numeric ID (get it from @userinfobot)
+ADMIN_ID=987654321
+
+# Numeric ID of your Forum-enabled Supergroup (e.g. -1001234567890)
+# How to get it: add @userinfobot to the group, it will show the group ID
+# ⚠️ Must be negative and start with -100
+ESCROW_GROUP_ID=-1001234567890
+
+# SQLite database path (Railway volume: /app/escrow.db)
+DB_PATH=escrow.db
