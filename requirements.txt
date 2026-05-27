@@ -1,0 +1,4 @@
+python-telegram-bot==21.5
+solders==0.21.0
+bit==0.8.0
+python-dotenv==1.0.1
